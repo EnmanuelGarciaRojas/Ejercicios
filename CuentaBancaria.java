@@ -28,7 +28,6 @@ public class CuentaBancaria {
         }
     }
 
-    // Método para obtener el saldo
     public double getSaldo() {
         return saldo;
     }
